@@ -1,0 +1,9 @@
+.image{
+box-sizing: border-box;
+padding: 20px;
+height: 100%;
+}
+
+.image img{
+ height: 65%;
+}
